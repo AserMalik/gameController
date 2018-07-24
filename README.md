@@ -4,7 +4,7 @@ This was an Arduino-based input device project. The game controller used a matri
 ## The Software
 Arduino (Joystick.ino): This part defined serial input functionality of all the inputs, and also handled the behavior of the leds.
 
-Processing (CulminatingControl.pde): A little demo game made to demonstrate the controller entire range of functionality.
+Processing (Culminating_Control.pde): A little demo game made to demonstrate the controller entire range of functionality.
 
 ## The Hardware
 The controller was shaped like a rectangular prism with curved edges at the front. I used a sawed-in-half clipboard for the back (horribly uncomfortable in use) and foam for the sides and top.
